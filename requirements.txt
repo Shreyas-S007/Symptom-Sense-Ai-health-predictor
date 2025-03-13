@@ -1,0 +1,6 @@
+Copystreamlit
+panda
+matplotlib
+seaborn
+Pillow
+streamlit-option-menu
